@@ -1,0 +1,8 @@
+source;share/somorob/hook/cmake_prefix_path.ps1
+source;share/somorob/hook/cmake_prefix_path.dsv
+source;share/somorob/hook/cmake_prefix_path.sh
+source;share/somorob/local_setup.bash
+source;share/somorob/local_setup.dsv
+source;share/somorob/local_setup.ps1
+source;share/somorob/local_setup.sh
+source;share/somorob/local_setup.zsh

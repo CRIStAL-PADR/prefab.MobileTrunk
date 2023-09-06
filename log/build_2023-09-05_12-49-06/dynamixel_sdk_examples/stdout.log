@@ -1,0 +1,22 @@
+[ 50%] Built target read_write_node
+[100%] Built target dynamixel_pub_sub
+-- Install configuration: ""
+-- Installing: /home/speed/Somorob_Dynamixel/install/dynamixel_sdk_examples/lib/dynamixel_sdk_examples/read_write_node
+-- Set runtime path of "/home/speed/Somorob_Dynamixel/install/dynamixel_sdk_examples/lib/dynamixel_sdk_examples/read_write_node" to ""
+-- Installing: /home/speed/Somorob_Dynamixel/install/dynamixel_sdk_examples/lib/dynamixel_sdk_examples/dynamixel_pub_sub
+-- Set runtime path of "/home/speed/Somorob_Dynamixel/install/dynamixel_sdk_examples/lib/dynamixel_sdk_examples/dynamixel_pub_sub" to ""
+-- Installing: /home/speed/Somorob_Dynamixel/install/dynamixel_sdk_examples/share/ament_index/resource_index/package_run_dependencies/dynamixel_sdk_examples
+-- Installing: /home/speed/Somorob_Dynamixel/install/dynamixel_sdk_examples/share/ament_index/resource_index/parent_prefix_path/dynamixel_sdk_examples
+-- Installing: /home/speed/Somorob_Dynamixel/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/environment/ament_prefix_path.sh
+-- Installing: /home/speed/Somorob_Dynamixel/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/environment/ament_prefix_path.dsv
+-- Installing: /home/speed/Somorob_Dynamixel/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/environment/path.sh
+-- Installing: /home/speed/Somorob_Dynamixel/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/environment/path.dsv
+-- Installing: /home/speed/Somorob_Dynamixel/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/local_setup.bash
+-- Installing: /home/speed/Somorob_Dynamixel/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/local_setup.sh
+-- Installing: /home/speed/Somorob_Dynamixel/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/local_setup.zsh
+-- Installing: /home/speed/Somorob_Dynamixel/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/local_setup.dsv
+-- Installing: /home/speed/Somorob_Dynamixel/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/package.dsv
+-- Installing: /home/speed/Somorob_Dynamixel/install/dynamixel_sdk_examples/share/ament_index/resource_index/packages/dynamixel_sdk_examples
+-- Installing: /home/speed/Somorob_Dynamixel/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/cmake/dynamixel_sdk_examplesConfig.cmake
+-- Installing: /home/speed/Somorob_Dynamixel/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/cmake/dynamixel_sdk_examplesConfig-version.cmake
+-- Installing: /home/speed/Somorob_Dynamixel/install/dynamixel_sdk_examples/share/dynamixel_sdk_examples/package.xml

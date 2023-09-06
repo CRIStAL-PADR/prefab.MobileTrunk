@@ -1,0 +1,16 @@
+/home/speed/Somorob_Dynamixel/install/somorob/lib/somorob/summit_xl
+/home/speed/Somorob_Dynamixel/install/somorob/share/ament_index/resource_index/package_run_dependencies/somorob
+/home/speed/Somorob_Dynamixel/install/somorob/share/ament_index/resource_index/parent_prefix_path/somorob
+/home/speed/Somorob_Dynamixel/install/somorob/share/somorob/environment/ament_prefix_path.sh
+/home/speed/Somorob_Dynamixel/install/somorob/share/somorob/environment/ament_prefix_path.dsv
+/home/speed/Somorob_Dynamixel/install/somorob/share/somorob/environment/path.sh
+/home/speed/Somorob_Dynamixel/install/somorob/share/somorob/environment/path.dsv
+/home/speed/Somorob_Dynamixel/install/somorob/share/somorob/local_setup.bash
+/home/speed/Somorob_Dynamixel/install/somorob/share/somorob/local_setup.sh
+/home/speed/Somorob_Dynamixel/install/somorob/share/somorob/local_setup.zsh
+/home/speed/Somorob_Dynamixel/install/somorob/share/somorob/local_setup.dsv
+/home/speed/Somorob_Dynamixel/install/somorob/share/somorob/package.dsv
+/home/speed/Somorob_Dynamixel/install/somorob/share/ament_index/resource_index/packages/somorob
+/home/speed/Somorob_Dynamixel/install/somorob/share/somorob/cmake/somorobConfig.cmake
+/home/speed/Somorob_Dynamixel/install/somorob/share/somorob/cmake/somorobConfig-version.cmake
+/home/speed/Somorob_Dynamixel/install/somorob/share/somorob/package.xml

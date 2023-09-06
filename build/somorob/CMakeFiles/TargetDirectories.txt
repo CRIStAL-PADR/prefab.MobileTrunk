@@ -1,0 +1,10 @@
+/home/speed/Somorob_Dynamixel/build/somorob/CMakeFiles/install/strip.dir
+/home/speed/Somorob_Dynamixel/build/somorob/CMakeFiles/install/local.dir
+/home/speed/Somorob_Dynamixel/build/somorob/CMakeFiles/install.dir
+/home/speed/Somorob_Dynamixel/build/somorob/CMakeFiles/list_install_components.dir
+/home/speed/Somorob_Dynamixel/build/somorob/CMakeFiles/rebuild_cache.dir
+/home/speed/Somorob_Dynamixel/build/somorob/CMakeFiles/summit_xl.dir
+/home/speed/Somorob_Dynamixel/build/somorob/CMakeFiles/edit_cache.dir
+/home/speed/Somorob_Dynamixel/build/somorob/CMakeFiles/test.dir
+/home/speed/Somorob_Dynamixel/build/somorob/CMakeFiles/somorob_uninstall.dir
+/home/speed/Somorob_Dynamixel/build/somorob/CMakeFiles/uninstall.dir

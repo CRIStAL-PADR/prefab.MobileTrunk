@@ -1,0 +1,5 @@
+[0.063s] Invoking command in '/home/speed/Somorob_Dynamixel/build/bag_recorder_nodes': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/speed/Somorob_Dynamixel/install/summit_xl:/home/speed/Somorob_Dynamixel/install/python_folder:/opt/ros/foxy /usr/bin/cmake --build /home/speed/Somorob_Dynamixel/build/bag_recorder_nodes -- -j24 -l24
+[0.364s] [35m[1mScanning dependencies of target bag_recorder[0m
+[0.365s] [ 50%] [32mBuilding CXX object CMakeFiles/bag_recorder.dir/src/bag_recorder.cpp.o[0m
+[6.029s] [100%] [32m[1mLinking CXX executable bag_recorder[0m
+[6.326s] [100%] Built target bag_recorder

@@ -1,0 +1,39 @@
+[0.062s] Invoking command in '/home/speed/Somorob_Dynamixel/build/dynamixel_sdk_custom_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/speed/Somorob_Dynamixel/install/summit_xl:/home/speed/Somorob_Dynamixel/install/python_folder:/opt/ros/foxy /usr/bin/cmake /home/speed/Somorob_Dynamixel/prefab.MobileTrunk/dynamixel_trunk/DynamixelSDK/dynamixel_sdk_custom_interfaces -DCMAKE_INSTALL_PREFIX=/home/speed/Somorob_Dynamixel/install/dynamixel_sdk_custom_interfaces
+[0.370s] -- The C compiler identification is GNU 9.4.0
+[0.370s] -- The CXX compiler identification is GNU 9.4.0
+[0.370s] -- Check for working C compiler: /usr/bin/cc
+[0.370s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.370s] -- Detecting C compiler ABI info
+[0.442s] -- Detecting C compiler ABI info - done
+[0.467s] -- Detecting C compile features
+[0.467s] -- Detecting C compile features - done
+[0.472s] -- Check for working CXX compiler: /usr/bin/c++
+[0.579s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.580s] -- Detecting CXX compiler ABI info
+[0.693s] -- Detecting CXX compiler ABI info - done
+[0.710s] -- Detecting CXX compile features
+[0.710s] -- Detecting CXX compile features - done
+[0.712s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.753s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.753s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.027s] -- Found builtin_interfaces: 1.0.0 (/opt/ros/foxy/share/builtin_interfaces/cmake)
+[1.075s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.085s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[1.195s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[1.235s] -- Found FastRTPS: /opt/ros/foxy/include  
+[1.331s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.366s] -- Found rosidl_default_generators: 1.0.1 (/opt/ros/foxy/share/rosidl_default_generators/cmake)
+[1.411s] -- Found PythonInterp: /usr/bin/python3 (found version "3.8.10") 
+[1.581s] -- Found ament_cmake_ros: 0.9.2 (/opt/ros/foxy/share/ament_cmake_ros/cmake)
+[1.719s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.734s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.767s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3.5") 
+[1.771s] -- Found python_cmake_module: 0.8.1 (/opt/ros/foxy/share/python_cmake_module/cmake)
+[1.813s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.8.so (found suitable version "3.8.10", minimum required is "3.5") 
+[1.813s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.813s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.8
+[1.814s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+[1.846s] -- Found PythonExtra: .so  
+[1.921s] -- Configuring done
+[1.968s] -- Generating done
+[1.971s] -- Build files have been written to: /home/speed/Somorob_Dynamixel/build/dynamixel_sdk_custom_interfaces

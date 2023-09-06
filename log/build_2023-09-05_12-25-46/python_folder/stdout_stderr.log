@@ -1,0 +1,9 @@
+running egg_info
+creating ../../../build/python_folder/Keyboard_trunk_controller.egg-info
+writing ../../../build/python_folder/Keyboard_trunk_controller.egg-info/PKG-INFO
+writing dependency_links to ../../../build/python_folder/Keyboard_trunk_controller.egg-info/dependency_links.txt
+writing entry points to ../../../build/python_folder/Keyboard_trunk_controller.egg-info/entry_points.txt
+writing requirements to ../../../build/python_folder/Keyboard_trunk_controller.egg-info/requires.txt
+writing top-level names to ../../../build/python_folder/Keyboard_trunk_controller.egg-info/top_level.txt
+writing manifest file '../../../build/python_folder/Keyboard_trunk_controller.egg-info/SOURCES.txt'
+error: package directory 'Keyboard_trunk_controller' does not exist

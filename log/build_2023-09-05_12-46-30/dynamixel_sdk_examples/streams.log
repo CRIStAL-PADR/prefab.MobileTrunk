@@ -1,0 +1,9 @@
+[0.026s] Invoking command in '/home/speed/Somorob_Dynamixel/build/dynamixel_sdk_examples': CMAKE_PREFIX_PATH=/home/speed/Somorob_Dynamixel/install/dynamixel_sdk_custom_interfaces:/home/speed/Somorob_Dynamixel/install/dynamixel_sdk:/home/speed/Somorob_Dynamixel/install/somorob:/home/speed/Somorob_Dynamixel/install/dynamixel_sdk_examples:/home/speed/Somorob_Dynamixel/install/bag_recorder_nodes:/home/speed/Somorob_Dynamixel/install/summit_xl:/home/speed/Somorob_Dynamixel/install/python_folder:/opt/ros/foxy PYTHONPATH=/home/speed/Somorob_Dynamixel/install/dynamixel_sdk_custom_interfaces/lib/python3.8/site-packages:/home/speed/Somorob_Dynamixel/install/summit_xl/lib/python3.8/site-packages:/home/speed/Somorob_Dynamixel/install/python_folder/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages:/home/speed/SOFA/v23.06.00/plugins/SofaPython2/lib/python3/site-packages:/home/speed/SOFA/v23.06.00/plugins/STLIB/lib/python3/site-packages:/usr/lib/python3.8:/home/speed/SOFA/v23.06.00/plugins/SoftRobots/share/sofa/examples/SoftRobots/sofaros /usr/bin/cmake --build /home/speed/Somorob_Dynamixel/build/dynamixel_sdk_examples -- -j24 -l24
+[0.100s] [35m[1mScanning dependencies of target read_write_node[0m
+[0.100s] [35m[1mScanning dependencies of target dynamixel_pub_sub[0m
+[0.143s] [ 25%] [32mBuilding CXX object CMakeFiles/dynamixel_pub_sub.dir/src/dynamixel_pub_sub.cpp.o[0m
+[0.150s] [ 50%] [32mBuilding CXX object CMakeFiles/read_write_node.dir/src/read_write_node.cpp.o[0m
+[5.357s] [ 75%] [32m[1mLinking CXX executable dynamixel_pub_sub[0m
+[5.401s] [100%] [32m[1mLinking CXX executable read_write_node[0m
+[5.626s] [100%] Built target dynamixel_pub_sub
+[5.672s] [100%] Built target read_write_node

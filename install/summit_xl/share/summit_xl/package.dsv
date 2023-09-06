@@ -1,0 +1,6 @@
+source;share/summit_xl/hook/pythonpath.ps1
+source;share/summit_xl/hook/pythonpath.dsv
+source;share/summit_xl/hook/pythonpath.sh
+source;share/summit_xl/hook/ament_prefix_path.ps1
+source;share/summit_xl/hook/ament_prefix_path.dsv
+source;share/summit_xl/hook/ament_prefix_path.sh
