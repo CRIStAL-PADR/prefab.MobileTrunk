@@ -1,1 +1,0 @@
-Invoking command in '/home/speed/Somorob_Dynamixel/build/dynamixel_sdk_custom_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/speed/Somorob_Dynamixel/install/summit_xl:/home/speed/Somorob_Dynamixel/install/python_folder:/opt/ros/foxy /usr/bin/cmake --build /home/speed/Somorob_Dynamixel/build/dynamixel_sdk_custom_interfaces -- -j24 -l24

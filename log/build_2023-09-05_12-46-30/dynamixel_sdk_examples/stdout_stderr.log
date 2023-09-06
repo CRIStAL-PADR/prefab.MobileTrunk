@@ -1,8 +1,0 @@
-[35m[1mScanning dependencies of target read_write_node[0m
-[35m[1mScanning dependencies of target dynamixel_pub_sub[0m
-[ 25%] [32mBuilding CXX object CMakeFiles/dynamixel_pub_sub.dir/src/dynamixel_pub_sub.cpp.o[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/read_write_node.dir/src/read_write_node.cpp.o[0m
-[ 75%] [32m[1mLinking CXX executable dynamixel_pub_sub[0m
-[100%] [32m[1mLinking CXX executable read_write_node[0m
-[100%] Built target dynamixel_pub_sub
-[100%] Built target read_write_node

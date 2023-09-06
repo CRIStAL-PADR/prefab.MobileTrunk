@@ -1,5 +1,0 @@
-[0.336s] Invoking command in '/home/speed/Somorob_Dynamixel/build/somorob': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/speed/Somorob_Dynamixel/install/summit_xl:/home/speed/Somorob_Dynamixel/install/python_folder:/opt/ros/foxy /usr/bin/cmake --build /home/speed/Somorob_Dynamixel/build/somorob -- -j24 -l24
-[0.391s] [35m[1mScanning dependencies of target summit_xl[0m
-[0.442s] [ 50%] [32mBuilding CXX object CMakeFiles/summit_xl.dir/src/summit_xl.cpp.o[0m
-[3.870s] [100%] [32m[1mLinking CXX executable summit_xl[0m
-[4.055s] [100%] Built target summit_xl

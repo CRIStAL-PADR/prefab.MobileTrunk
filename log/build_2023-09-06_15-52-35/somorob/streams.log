@@ -1,0 +1,66 @@
+[0.341s] Invoking command in '/home/speed/Somorob_Dynamixel/build/somorob': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/speed/Somorob_Dynamixel/install/summit_xl:/home/speed/Somorob_Dynamixel/install/python_folder:/opt/ros/foxy /usr/bin/cmake /home/speed/Somorob_Dynamixel/prefab.MobileTrunk/test/ros/src/somorob -DCMAKE_INSTALL_PREFIX=/home/speed/Somorob_Dynamixel/install/somorob
+[0.424s] -- The C compiler identification is GNU 9.4.0
+[0.499s] -- The CXX compiler identification is GNU 9.4.0
+[0.509s] -- Check for working C compiler: /usr/bin/cc
+[0.608s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.611s] -- Detecting C compiler ABI info
+[0.718s] -- Detecting C compiler ABI info - done
+[0.733s] -- Detecting C compile features
+[0.733s] -- Detecting C compile features - done
+[0.736s] -- Check for working CXX compiler: /usr/bin/c++
+[0.863s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.866s] -- Detecting CXX compiler ABI info
+[0.992s] -- Detecting CXX compiler ABI info - done
+[1.017s] -- Detecting CXX compile features
+[1.018s] -- Detecting CXX compile features - done
+[1.021s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[1.059s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[1.060s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.405s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[1.455s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.462s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[1.582s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[1.616s] -- Found FastRTPS: /opt/ros/foxy/include  
+[1.707s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.769s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[1.770s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.771s] -- Looking for pthread.h
+[1.884s] -- Looking for pthread.h - found
+[1.885s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.999s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[2.000s] -- Looking for pthread_create in pthreads
+[2.092s] -- Looking for pthread_create in pthreads - not found
+[2.093s] -- Looking for pthread_create in pthread
+[2.208s] -- Looking for pthread_create in pthread - found
+[2.210s] -- Found Threads: TRUE  
+[2.391s] -- Found geometry_msgs: 2.0.5 (/opt/ros/foxy/share/geometry_msgs/cmake)
+[2.514s] -- Configuring done
+[2.522s] -- Generating done
+[2.523s] -- Build files have been written to: /home/speed/Somorob_Dynamixel/build/somorob
+[2.531s] Invoked command in '/home/speed/Somorob_Dynamixel/build/somorob' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/speed/Somorob_Dynamixel/install/summit_xl:/home/speed/Somorob_Dynamixel/install/python_folder:/opt/ros/foxy /usr/bin/cmake /home/speed/Somorob_Dynamixel/prefab.MobileTrunk/test/ros/src/somorob -DCMAKE_INSTALL_PREFIX=/home/speed/Somorob_Dynamixel/install/somorob
+[2.537s] Invoking command in '/home/speed/Somorob_Dynamixel/build/somorob': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/speed/Somorob_Dynamixel/install/summit_xl:/home/speed/Somorob_Dynamixel/install/python_folder:/opt/ros/foxy /usr/bin/cmake --build /home/speed/Somorob_Dynamixel/build/somorob -- -j24 -l24
+[2.605s] [35m[1mScanning dependencies of target summit_xl[0m
+[2.655s] [ 50%] [32mBuilding CXX object CMakeFiles/summit_xl.dir/src/summit_xl.cpp.o[0m
+[6.025s] [100%] [32m[1mLinking CXX executable summit_xl[0m
+[6.209s] [100%] Built target summit_xl
+[6.228s] Invoked command in '/home/speed/Somorob_Dynamixel/build/somorob' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/speed/Somorob_Dynamixel/install/summit_xl:/home/speed/Somorob_Dynamixel/install/python_folder:/opt/ros/foxy /usr/bin/cmake --build /home/speed/Somorob_Dynamixel/build/somorob -- -j24 -l24
+[6.276s] Invoking command in '/home/speed/Somorob_Dynamixel/build/somorob': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/speed/Somorob_Dynamixel/install/summit_xl:/home/speed/Somorob_Dynamixel/install/python_folder:/opt/ros/foxy /usr/bin/cmake --install /home/speed/Somorob_Dynamixel/build/somorob
+[6.287s] -- Install configuration: ""
+[6.288s] -- Installing: /home/speed/Somorob_Dynamixel/install/somorob/lib/somorob/summit_xl
+[6.289s] -- Set runtime path of "/home/speed/Somorob_Dynamixel/install/somorob/lib/somorob/summit_xl" to ""
+[6.289s] -- Installing: /home/speed/Somorob_Dynamixel/install/somorob/share/ament_index/resource_index/package_run_dependencies/somorob
+[6.289s] -- Installing: /home/speed/Somorob_Dynamixel/install/somorob/share/ament_index/resource_index/parent_prefix_path/somorob
+[6.289s] -- Installing: /home/speed/Somorob_Dynamixel/install/somorob/share/somorob/environment/ament_prefix_path.sh
+[6.289s] -- Installing: /home/speed/Somorob_Dynamixel/install/somorob/share/somorob/environment/ament_prefix_path.dsv
+[6.290s] -- Installing: /home/speed/Somorob_Dynamixel/install/somorob/share/somorob/environment/path.sh
+[6.290s] -- Installing: /home/speed/Somorob_Dynamixel/install/somorob/share/somorob/environment/path.dsv
+[6.290s] -- Installing: /home/speed/Somorob_Dynamixel/install/somorob/share/somorob/local_setup.bash
+[6.290s] -- Installing: /home/speed/Somorob_Dynamixel/install/somorob/share/somorob/local_setup.sh
+[6.290s] -- Installing: /home/speed/Somorob_Dynamixel/install/somorob/share/somorob/local_setup.zsh
+[6.290s] -- Installing: /home/speed/Somorob_Dynamixel/install/somorob/share/somorob/local_setup.dsv
+[6.290s] -- Installing: /home/speed/Somorob_Dynamixel/install/somorob/share/somorob/package.dsv
+[6.291s] -- Installing: /home/speed/Somorob_Dynamixel/install/somorob/share/ament_index/resource_index/packages/somorob
+[6.291s] -- Installing: /home/speed/Somorob_Dynamixel/install/somorob/share/somorob/cmake/somorobConfig.cmake
+[6.291s] -- Installing: /home/speed/Somorob_Dynamixel/install/somorob/share/somorob/cmake/somorobConfig-version.cmake
+[6.291s] -- Installing: /home/speed/Somorob_Dynamixel/install/somorob/share/somorob/package.xml
+[6.298s] Invoked command in '/home/speed/Somorob_Dynamixel/build/somorob' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/speed/Somorob_Dynamixel/install/summit_xl:/home/speed/Somorob_Dynamixel/install/python_folder:/opt/ros/foxy /usr/bin/cmake --install /home/speed/Somorob_Dynamixel/build/somorob

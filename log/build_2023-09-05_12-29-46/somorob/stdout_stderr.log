@@ -1,4 +1,0 @@
-[35m[1mScanning dependencies of target summit_xl[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/summit_xl.dir/src/summit_xl.cpp.o[0m
-[100%] [32m[1mLinking CXX executable summit_xl[0m
-[100%] Built target summit_xl
