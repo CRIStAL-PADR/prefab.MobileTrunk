@@ -1,7 +1,0 @@
-{
-  "package_name": "dynamixel_sdk_custom_interfaces",
-  "non_idl_tuples": [
-    "/home/speed/Somorob_Dynamixel/prefab.MobileTrunk/dynamixel_trunk/DynamixelSDK/dynamixel_sdk_custom_interfaces:msg/SetPosition.msg",
-    "/home/speed/Somorob_Dynamixel/prefab.MobileTrunk/dynamixel_trunk/DynamixelSDK/dynamixel_sdk_custom_interfaces:srv/GetPosition.srv"
-  ]
-}

@@ -1,4 +1,0 @@
-[console_scripts]
-keyboard_controller = keyboard_trunk_controller.keyboard_controller:main
-set_position_to_float64_converter = keyboard_trunk_controller.set_position_to_float64_converter:main
-
