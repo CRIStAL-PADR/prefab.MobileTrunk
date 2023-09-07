@@ -1,3 +1,0 @@
-[console_scripts]
-summit_xl_teleop_key = summit_xl.summit_xl_teleop_key:main
-
