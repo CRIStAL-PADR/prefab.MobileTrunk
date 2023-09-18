@@ -115,7 +115,7 @@ def createScene(rootNode):
 
         for i in range(1,10):
             
-            topic = str("/Robot/Cable"+str(i)+"/state/displacement")
+            topic = str("/Sim/Cable"+str(i)+"/state/displacement")
             scene.Modelling.SummitXL.addObject(RosReceiver(rosNode, topic, robot.findData("effector_cable_data"),Float64, cable_displacement_recv))
             print(topic)  
 
