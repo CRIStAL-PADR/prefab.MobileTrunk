@@ -1,7 +1,7 @@
 def addCamera(rootNode):
 
     camera = rootNode.addChild('Camera')
-    camera.addObject('MechanicalObject' , template='Rigid3d', rotation=[180, 0, 0],position=[1.13687e-13, 260, 1078.45, -0.5, -0.5, 0.5, 0.5],
+    camera.addObject('MechanicalObject' , template='Rigid3d', rotation=[180, 0, 0],position=[0, 0, 0, -0.5, -0.5, 0.5, 0.5],
                           showObject=False, showObjectScale=100)
 
     camera.addObject('RigidRigidMapping', name="mapping", input = rootNode.Trunk.framesNode.frames.getLinkPath() ,index=100)
